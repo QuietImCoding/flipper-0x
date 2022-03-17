@@ -1,5 +1,5 @@
 ASSETS_DIR			:= $(PROJECT_ROOT)/assets
-ASSETS_COMPILLER	:= $(PROJECT_ROOT)/scripts/assets.py
+ASSETS_COMPILER	:= $(PROJECT_ROOT)/scripts/assets.py
 ASSETS_COMPILED_DIR	:= $(ASSETS_DIR)/compiled
 ASSETS_SOURCE_DIR	:= $(ASSETS_DIR)/icons
 
